@@ -16,8 +16,8 @@
               {
                 "type": "Microsoft.Storage/storageAccounts",
                 "apiVersion": "2021-04-01",
-                "name": "Storage-Test-1",
-                "location": "West US",
+                "name": "StorageTest1",
+                "location": "Central US",
                 "sku": {
                   "name": "Standard_LRS"
                 },
