@@ -20,8 +20,8 @@
               {
                 "type": "Microsoft.Storage/storageAccounts",
                 "apiVersion": "2021-04-01",
-                "name": "[parameters('storageAccountName1')]",
-                "location": "Central US",
+                "name": "[parameters('storageAccountName')]",
+                "location": "West US",
                 "sku": {
                   "name": "Standard_LRS"
                 },
