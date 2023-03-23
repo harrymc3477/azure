@@ -22,16 +22,6 @@
                   "name": "Standard_LRS"
                 },
                 "kind": "StorageV2"
-              },
-              {
-                "type": "Microsoft.Storage/storageAccounts",
-                "apiVersion": "2021-04-01",
-                "name": "ran10032000",
-                "location": "Central US",
-                "sku": {
-                  "name": "Standard_LRS"
-                },
-                "kind": "StorageV2"
               }
             ]
           }
